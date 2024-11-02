@@ -7,9 +7,9 @@ Computer Science Student at the <p><em><a href="https://www.uts.edu.au/">Univers
 - 👨‍💻 I'm passionate ❤ about Cybersecurity & Software Engineering
 
 # Experience
-- University Technology Sydney - Bachelors' Degree (Hons) Class of 2026 🎉
-- University Sains Malaysia - Data Science Course 📊
-- Nanyang Technological University - Linguistics and Information Security Exchange Program 🐱‍👤
+- Australia - University Technology Sydney - Bachelors' Degree (Hons) Class of 2026 🎉
+- Malaysia - University Sains Malaysia - Data Science Course 📊
+- Singapore - Nanyang Technological University - Linguistics and Information Security Exchange Program 🐱‍👤
 
 # Projects
 - 🐍 Python ChessAI ✅ 
