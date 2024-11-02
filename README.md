@@ -16,7 +16,8 @@ Computer Science Student at the <p><em><a href="https://www.uts.edu.au/">Univers
 - 🧬 Sorting Algorithm Visualiser - JavaScript & p5.js ✅
 - 📷 Polaroid Game - Godot Development ✅
 - 🐱‍💻 Social Media Account Scanner - Python Development ✅
- 
-  <img src="https://github.com/user-attachments/assets/bad91b9b-9ea2-43b8-8b0b-e1131f639554" alt="Chess AI" height="200" width="230" style="display: block; margin-bottom: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/c530cb40-3b61-4fd6-bf3b-033982428f79" alt="SortingVisualiser" height="200" width="230" style="display: block; margin-bottom: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/68fe7fdf-82ef-41dc-882c-95581f9878b2" alt="Polaroid Game" height="200" width="230" style="display: block; margin-bottom: 10px;"/>
+
+# Showcase 
+<img src="https://github.com/user-attachments/assets/bad91b9b-9ea2-43b8-8b0b-e1131f639554" alt="Chess AI" height="200" width="230" style="display: block; margin-bottom: 10px;"/>
+<img src="https://github.com/user-attachments/assets/c530cb40-3b61-4fd6-bf3b-033982428f79" alt="SortingVisualiser" height="200" width="230" style="display: block; margin-bottom: 10px;"/>
+<img src="https://github.com/user-attachments/assets/68fe7fdf-82ef-41dc-882c-95581f9878b2" alt="Polaroid Game" height="200" width="230" style="display: block; margin-bottom: 10px;"/>
