@@ -6,10 +6,10 @@ Computer Science Student at the <p><em><a href="https://www.uts.edu.au/">Univers
 - 🌱 I’m currently learning techniques 🔍 to help in competitive programming competitions! 
 - 👨‍💻 I'm passionate ❤ about Cybersecurity & Software Engineering.
 
-# Experience
-- University Technology Sydney - Bachelors' Degree (Hons)
-- University Sains Malaysia - Data Science Course
-- Nanyang Technological University - Linguistics and Information Security Exchange Program
+<h2>Experience</h2> 
+- University Technology Sydney - Bachelors' Degree (Hons) Class of 2026 🎉
+- University Sains Malaysia - Data Science Course 📊
+- Nanyang Technological University - Linguistics and Information Security Exchange Program 🐱‍👤
 
 # Projects
 - 🐍 Python ChessAI ✅ 
@@ -17,9 +17,9 @@ Computer Science Student at the <p><em><a href="https://www.uts.edu.au/">Univers
 - 🐱‍💻 Social Media Account Scanner - Python Development ✅
 - 📷 Polaroid Game - Godot Development ✅
 
-<img src="https://github.com/user-attachments/assets/bad91b9b-9ea2-43b8-8b0b-e1131f639554" alt="Chess AI" width="25%" />
-<img src="https://github.com/user-attachments/assets/c530cb40-3b61-4fd6-bf3b-033982428f79" alt="SortingVisualiser" width="25%" />
-<img src="https://github.com/user-attachments/assets/68fe7fdf-82ef-41dc-882c-95581f9878b2" alt="Polaroid Game" width="25%" />
+<img src="https://github.com/user-attachments/assets/bad91b9b-9ea2-43b8-8b0b-e1131f639554" alt="Chess AI" />
+<img src="https://github.com/user-attachments/assets/c530cb40-3b61-4fd6-bf3b-033982428f79" alt="SortingVisualiser" />
+<img src="https://github.com/user-attachments/assets/68fe7fdf-82ef-41dc-882c-95581f9878b2" alt="Polaroid Game" />
 
 
 
